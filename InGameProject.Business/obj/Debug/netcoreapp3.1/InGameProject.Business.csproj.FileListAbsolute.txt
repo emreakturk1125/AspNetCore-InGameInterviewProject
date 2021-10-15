@@ -1,0 +1,16 @@
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.Business.deps.json
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.Business.dll
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.Business.pdb
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.Core.dll
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.DataAccess.dll
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.Entities.dll
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.Core.pdb
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.DataAccess.pdb
+D:\InGame\InGameInterviewProject\InGameProject.Business\bin\Debug\netcoreapp3.1\InGameProject.Entities.pdb
+D:\InGame\InGameInterviewProject\InGameProject.Business\obj\Debug\netcoreapp3.1\InGameProject.Business.csprojAssemblyReference.cache
+D:\InGame\InGameInterviewProject\InGameProject.Business\obj\Debug\netcoreapp3.1\InGameProject.Business.AssemblyInfoInputs.cache
+D:\InGame\InGameInterviewProject\InGameProject.Business\obj\Debug\netcoreapp3.1\InGameProject.Business.AssemblyInfo.cs
+D:\InGame\InGameInterviewProject\InGameProject.Business\obj\Debug\netcoreapp3.1\InGameProject.Business.csproj.CoreCompileInputs.cache
+D:\InGame\InGameInterviewProject\InGameProject.Business\obj\Debug\netcoreapp3.1\InGameProject.Business.csproj.CopyComplete
+D:\InGame\InGameInterviewProject\InGameProject.Business\obj\Debug\netcoreapp3.1\InGameProject.Business.dll
+D:\InGame\InGameInterviewProject\InGameProject.Business\obj\Debug\netcoreapp3.1\InGameProject.Business.pdb

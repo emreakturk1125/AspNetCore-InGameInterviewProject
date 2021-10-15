@@ -1,0 +1,36 @@
+﻿@model InGameProject.Entities.Concrete.Product
+@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1>Yeni Ürün Ekleme Sayfası</h1>
+<br />
+@using (Html.BeginForm("AddProduct", "Product", FormMethod.Post))
+{
+<div class="form-group" style="width:800px;margin:auto">
+    @Html.Label("Ürün Adı")
+    @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Kategori")
+    @Html.DropDownListFor(x => x.CategoryId, (List<SelectListItem>)ViewBag.vlc, "-Lütfen Seçiniz-", new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.CategoryId, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Ürün Resim Url")
+    @Html.TextBoxFor(x => x.ProductImageUrl, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Ürün Fiyatı")
+    @Html.TextBoxFor(x => x.ProductPrice, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Ürün Hakkında")
+    @Html.TextBoxFor(x => x.ProductDescription, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    <br />
+    <button class="btn btn-info">Ürün Ekle</button>
+</div>
+}
+

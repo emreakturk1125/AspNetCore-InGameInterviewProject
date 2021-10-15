@@ -1,0 +1,9 @@
+D:\InGame\InGameInterviewProject\InGameProject.Core\bin\Debug\netcoreapp3.1\InGameProject.Core.deps.json
+D:\InGame\InGameInterviewProject\InGameProject.Core\bin\Debug\netcoreapp3.1\InGameProject.Core.dll
+D:\InGame\InGameInterviewProject\InGameProject.Core\bin\Debug\netcoreapp3.1\InGameProject.Core.pdb
+D:\InGame\InGameInterviewProject\InGameProject.Core\obj\Debug\netcoreapp3.1\InGameProject.Core.csprojAssemblyReference.cache
+D:\InGame\InGameInterviewProject\InGameProject.Core\obj\Debug\netcoreapp3.1\InGameProject.Core.AssemblyInfoInputs.cache
+D:\InGame\InGameInterviewProject\InGameProject.Core\obj\Debug\netcoreapp3.1\InGameProject.Core.AssemblyInfo.cs
+D:\InGame\InGameInterviewProject\InGameProject.Core\obj\Debug\netcoreapp3.1\InGameProject.Core.csproj.CoreCompileInputs.cache
+D:\InGame\InGameInterviewProject\InGameProject.Core\obj\Debug\netcoreapp3.1\InGameProject.Core.dll
+D:\InGame\InGameInterviewProject\InGameProject.Core\obj\Debug\netcoreapp3.1\InGameProject.Core.pdb

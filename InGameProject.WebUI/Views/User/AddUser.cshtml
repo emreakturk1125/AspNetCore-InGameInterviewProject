@@ -1,0 +1,38 @@
+﻿@model InGameProject.Entities.Concrete.User
+@{
+    ViewData["Title"] = "AddUser";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1>Yeni Kullanıcı Ekleme Sayfası</h1>
+<br />
+@using (Html.BeginForm("AddUser", "User", FormMethod.Post))
+{
+    <div class="form-group" style="width:800px;margin:auto">
+        @Html.Label("Role")
+        @Html.DropDownListFor(x => x.UserRoleId, (List<SelectListItem>)ViewBag.vlc, "-Lütfen Seçiniz-", new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(x => x.CategoryId, "", new { @style = "color:red" })*@
+        <br />
+        @Html.Label("Kullanıcı Adı")
+        @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+        <br />
+        @Html.Label("Kullanıcı Soyadı")
+        @Html.TextBoxFor(x => x.UserSurname, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+        <br />
+        @Html.Label("Kullanıcı Email")
+        @Html.TextBoxFor(x => x.UserEmail, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+        <br />
+        @Html.Label("Kullanıcı Şifre")
+        @Html.TextBoxFor(x => x.UserPassword, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+        <br />
+        <button class="btn btn-info">Kullanıcı Ekle</button>
+    </div>
+}
+
+
+

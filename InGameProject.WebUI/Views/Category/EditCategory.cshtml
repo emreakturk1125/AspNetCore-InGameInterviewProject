@@ -1,0 +1,37 @@
+﻿@model InGameProject.Entities.Concrete.Category
+@{
+    ViewData["Title"] = "EditCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h2>Kategori Düzenleme Sayfası</h2>
+<br />
+
+@using (Html.BeginForm("EditCategory", "Category", FormMethod.Post))
+{
+<div class="form-group" style="width:800px;margin:auto">
+    @Html.Hidden("Kategori Id")
+    @Html.HiddenFor(x => x.CategoryId, new { @class = "form-control" })
+    @Html.Label("Kategori Adı")
+    @Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Üst Kategori")
+    @Html.DropDownListFor(x => x.MainCategoryId, (List<SelectListItem>)ViewBag.vlc, "-Seçmek İstemiyorum-", new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.CategoryId, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Açıklama")
+    @Html.TextBoxFor(x => x.CategoryDescription, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Durum")
+    @Html.CheckBoxFor(x => x.IsActive, new { @style = "width:5%" })
+    <br />
+    <br />
+    <button class="btn btn-success">Güncelle</button>
+</div>
+}
+
+
+

@@ -1,0 +1,17 @@
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.DataAccess.deps.json
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.DataAccess.runtimeconfig.json
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.DataAccess.runtimeconfig.dev.json
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.DataAccess.dll
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.DataAccess.pdb
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.Core.dll
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.Entities.dll
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.Entities.pdb
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\bin\Debug\netcoreapp3.1\InGameProject.Core.pdb
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.csprojAssemblyReference.cache
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.AssemblyInfoInputs.cache
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.AssemblyInfo.cs
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.csproj.CoreCompileInputs.cache
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.csproj.CopyComplete
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.dll
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.pdb
+D:\InGame\InGameInterviewProject\InGameProject.DataAccess\obj\Debug\netcoreapp3.1\InGameProject.DataAccess.genruntimeconfig.cache
