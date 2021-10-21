@@ -1,7 +1,7 @@
 # AspNetCore-InGameInterviewProject
 Our application contains WebApi, WebUI and layers. Project's infrastructure is .Net Core
-<br>
-#**About Project** 
+#
+#About Project
 <br>
 It is an infrastructure that can be used in all kinds of projects.You can move it to your own database by doing a migration process.
 <br>
