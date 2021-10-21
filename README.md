@@ -7,7 +7,7 @@ Our application contains WebApi, WebUI and layers. Project's infrastructure is .
 <br>
 -> .Net Core
 <br>
--> Database : Microsoft SQL Server, EntityFramework Code First  
+->Microsoft SQL Server
 <br>
 -> Layered Architecture
 <br>
