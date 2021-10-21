@@ -1,4 +1,4 @@
-# AspNetCore-InGameInterviewProject
+# InGameInterviewProject
 Our application contains WebApi, WebUI and layers. Project's infrastructure is .Net Core
 #
 # About Project
